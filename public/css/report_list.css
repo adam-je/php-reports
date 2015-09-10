@@ -19,6 +19,7 @@
     top: 50px;
     position: fixed;
     overflow-y: auto;
+    padding-top: 2%;
 }
 #report_list {
     padding-bottom: 400px;
